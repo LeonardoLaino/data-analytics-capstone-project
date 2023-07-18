@@ -1,4 +1,4 @@
-# Desenvolvimento de um Chatbot no Telegram com Pipeline de Dados na AWS
+# Desenvolvimento de uma Pipeline Completa para Chatbot no Telegram Utilizando a AWS
 
 --------
 ### Contexto
